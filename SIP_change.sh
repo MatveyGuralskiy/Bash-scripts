@@ -1,4 +1,5 @@
 #!/bin/bash
+#You should run a script with sudo permission
 #It's a SIP (Simple IP) change script
 
 function SIP(){
