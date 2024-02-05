@@ -4,8 +4,11 @@ This repository contains a collection of Bash scripts for various purposes. Each
 
 ## 🖥️ Scripts
 Graphical Interface Scripts as SSCalc and Weather Bash
+
 Login with affect
+
 Send mails with SMTP
+
 Simple IP changer (SIP)
 
 ## 🧬 To use any of the scripts, clone the repository
