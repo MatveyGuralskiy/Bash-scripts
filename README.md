@@ -12,7 +12,6 @@ Simple IP changer (SIP)
 
 ## ▶️ To run the script
 Use 'bash example.sh' or './example.sh'
-Clone the Repository:
 
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
