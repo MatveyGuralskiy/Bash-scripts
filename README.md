@@ -1,5 +1,9 @@
 # 🐧 Bash Script Repository
-This repository contains a collection of Bash scripts for various purposes. Each script is designed to perform a specific task, ranging from system automation to utility functions. Feel free to explore and use these scripts based on your needs.
+This repository contains a collection of Bash scripts for various purposes.
+
+Each script is designed to perform a specific task, ranging from system automation to utility functions.
+
+Feel free to explore and use these scripts based on your needs.
 
 
 ## 🖥️ Scripts
@@ -12,6 +16,8 @@ Send mails with SMTP
 Simple IP changer (SIP)
 
 ## 🧬 To use any of the scripts, clone the repository
+
+<p><img src="https://media.licdn.com/dms/image/D4D12AQFyLZBgxb109A/article-cover_image-shrink_600_2000/0/1678105450255?e=2147483647&v=beta&t=uVpOz-H89BuUCtcdN2J5HXp9C5r5h59WMbsJ-gqwjps" style="height:350px; width:700px" /></p>
 
 ## ▶️ To run the script
 Use 'bash example.sh' or './example.sh'
