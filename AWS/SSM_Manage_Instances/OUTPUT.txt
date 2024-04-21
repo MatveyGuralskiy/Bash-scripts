@@ -1,0 +1,149 @@
+Linux PC 6.5.0-27-generic #28~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Mar 15 10:51:06 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+Distributor ID:	Ubuntu
+Description:	Ubuntu 22.04.4 LTS
+Release:	22.04
+Codename:	jammy
+
+Sun 21 Apr 2024 16:12:44 IDT
+
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+avahi
+root
+root
+jenkins
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+matvey
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+root
+matvey
+
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           245M  1.7M  244M   1% /run
+/dev/sda3        39G   28G  9.0G  76% /
+tmpfs           1.2G     0  1.2G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.1M  506M   2% /boot/efi
+Ubuntu_matvey   476G  143G  334G  30% /media/sf_Ubuntu_matvey
+tmpfs           245M  132K  245M   1% /run/user/1000
+
+               total        used        free      shared  buff/cache   available
+Mem:           2.4Gi       1.2Gi       181Mi        20Mi       1.0Gi       1.0Gi
+Swap:          4.2Gi       540Mi       3.7Gi
